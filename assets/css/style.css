@@ -7,13 +7,16 @@ h2 {
 }
 
 body {
-	background-image: url("../images/mesa-panoramic-clip-reflect-x2.jpg");
-	/* background-size: 170rem; */
+	background-image: url("../images/mesa-panoramic-clip-2x-reflect-4K-height.jpg");
+	/* background-repeat: no-repeat; */
 	background-attachment: fixed;
+	background-position: 5% 100%;
+	/* background-size: 170rem; */
+	/* background-attachment: fixed; */
 	/* background-clip: content-box; */
-	/* background-color: rgba(76, 145, 177, 0.109); */
-	/* height: 100px; */
-	background-position-y;
+	/* background-color: rgba(76, 145, 177, 0.747); */
+	/* height: auto; */
+	/* background-position-y: bottom; */
 	/* background-repeat: no-repeat; */
 	/* background-size: cover; */
 	/* position: relative; */
@@ -28,14 +31,13 @@ body {
 }
 
 #headshot {
-	max-width: 228px;
+	max-width: 195px;
 	height: auto;
 }
 
 #text {
 	background-color: rgba(28, 59, 97, 0.507);
 }
-
 
 .footer {
 	background-color: #5a3c19;
