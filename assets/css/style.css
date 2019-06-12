@@ -26,17 +26,22 @@ body {
 	color: rgb(204, 147, 41);
 }
 
-#aboutSec {
-	color: rgb(77, 55, 15);
-}
+#aboutSec {}
 
 #headshot {
-	max-width: 195px;
-	height: auto;
+	/* max-width: 195px; */
+	/* height: auto; */
 }
 
-#text {
+#shaded {
 	background-color: rgba(28, 59, 97, 0.507);
+	margin-bottom: 60px
+}
+
+#imgWrapper {
+	position: relative;
+	float: left;
+	/* left: 50%; */
 }
 
 .footer {
